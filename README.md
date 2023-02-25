@@ -2,5 +2,5 @@
 
 ## Repositório do Desafio de  Projeto sobre Git/GitH
 Links úteis 
-[Sintax Básica Markdown] (https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
