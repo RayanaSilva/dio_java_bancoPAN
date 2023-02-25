@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class operadores {
+public class operadoresTernario {
     
     public static void main(String[] args){
         int a, b;
