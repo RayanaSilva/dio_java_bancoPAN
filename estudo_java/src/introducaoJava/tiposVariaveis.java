@@ -1,3 +1,4 @@
+package introducaoJava;
 import java.util.Scanner; // 1. Importando a classe Scanner
 
 public class tiposVariaveis {

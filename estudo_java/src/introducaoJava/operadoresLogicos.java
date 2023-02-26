@@ -1,3 +1,4 @@
+package introducaoJava;
 import java.util.Scanner;
 
 public class operadoresLogicos {
