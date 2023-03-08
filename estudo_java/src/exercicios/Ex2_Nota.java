@@ -1,9 +1,8 @@
 package exercicios;
-
-import java.util.Scanner;
 /**
- * @author Camila Calvacanti
+ * @author: Camila Cavalcante - DIO.me
  */
+import java.util.Scanner;
 
 /*
 Faça um programa que peça uma nota, entre zero e dez.
