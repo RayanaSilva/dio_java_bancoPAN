@@ -1,5 +1,5 @@
 package exercicios;
-
+/** @author: Rayana Silva */
 import java.util.Scanner;
 
 /* Nome e Idade: Faça um programa que leia conjuntos de dois valores, 

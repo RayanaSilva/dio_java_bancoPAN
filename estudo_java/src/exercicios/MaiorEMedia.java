@@ -1,5 +1,5 @@
 package exercicios;
-
+/** @author: Rayana Silva */
 import java.util.Scanner;
 
 /* Maior e Média: Faça um programa que leia 5 números e informe 
