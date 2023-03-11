@@ -1,5 +1,5 @@
 package exercicios;
-
+/** @author: Rayana Silva */
 import java.util.Random;
 
 /* 
