@@ -27,3 +27,20 @@ Links úteis
 
 <p align="justify">🔸Fatorial: Faça um programa que calcule o fatorial de um número inteiro fornecido pelo usuário.
 Ex.: 5!=5.4.3.2.1=120</p>
+
+🔗 [Lista de Exercícios Estruturas de Repetição](https://wiki.python.org.br/EstruturaDeRepeticao)
+
+<h3 align="center">💭 EXERCÍCIOS ARRAYS</h3>
+<h4 align="center">📝 ARRAYS UNIDIMENSIONAIS</h4>
+<p align="justify">🔹Ordem Inversa: Faça um Programa que leia um vetor de 5 números inteiros e mostre-os na ordem inversa.</p>
+
+<p align="justify">🔹Consoantes: Faça um Programa que leia um vetor de 6 caracteres, e diga quantas consoantes foram lidas. Imprima as consoantes.</p>
+
+<p align="justify">🔹Números Aleatórios: Faça um Programa que leia 20 números inteiros aleatórios (entre 0 e 100) armazene-os num vetor. Ao final, mostre os números e seus sucessores.</p>
+
+🔗 [Lista de Exercícios Arrays Unidimensionais](https://wiki.python.org.br/ExerciciosListas)
+
+<h4 align="center">📝 ARRAYS MULTIDIMENSIONAIS</h4>
+<p align="justify">🔹Array Multidimensional: Gere e imprima uma matriz M 4x4 com valores aleatórios entre 0-9. Após isso determine o menor número da matriz e a sua posição(linha, coluna).</p>
+
+🔗 [Lista de Exercícios Arrays Multidimensionais](https://www.slideshare.net/loianeg/curso-java-basico-exercicios-aula-20?from_action=save)
